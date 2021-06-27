@@ -10,7 +10,7 @@
 <p>
 <a align= "center" href="https://github.com/sakshamlamba109">
   <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=sakshamlamba109&theme=cobalt&show_icons=true&count_private=true" />
-  <img align="right" height="300px" width="300px" src="https://media2.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=790b76118c437cd53758baae13291342ebec2274040b8a58&rid=giphy.gif&ct=g" /> </a>
+  <img align="right" height="300px" width="300px" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" /> </a>
 
 </p>
 
