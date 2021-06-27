@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Saksham Lamba</h1>
-<h3 align="center">Loves to Code. Have a keen interest in Cloud Computing and Blockchain Technology. Always keen to explore and learn new technologies. 💚</h3>
+<h3 align="center">Loves to Code. Have a keen interest in Cloud Computing. Always exploring and learning new technologies. 💚</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshamlamba109&label=Profile%20views&color=0e75b6&style=flat" alt="sakshamlamba109" /> </p>
 
