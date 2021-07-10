@@ -32,4 +32,4 @@
 </p>
 
 <p>
-![Saksham's snake gif](https://github.com/sakshamlamba109/Sakshamlamba109/blob/output/github-contribution-grid-snake.gif)
+
