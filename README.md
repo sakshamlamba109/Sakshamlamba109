@@ -31,6 +31,9 @@
 <a href="https://www.instagram.com/saksham_209/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="sakshamlamba109" height="50" width="50" /></a>
 </p>
 
+## 📉 Productivity stats
+ ![Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakshamlamba109&theme=monokai)
+
 <p>
 <p align="center">
   <img src="https://github.com/Sakshamlamba109/Sakshamlamba109/raw/output/github-contribution-grid-snake.svg"
